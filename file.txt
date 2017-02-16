@@ -1,2 +1,2 @@
-git add file.txt
+git add filte.txt
 
